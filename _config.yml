@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "MA Congda"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at Tokyo Institute of Technology"
+  bio              : "Ph.D. student"
   location         : "Tokyo, Japan"
-  employer         :
-  uri              :
+  employer         :"Tokyo Institute of Technology"
+  uri              : # URL
   email            : "ma@lr.pi.titech.ac.jp" 
 
   # Academic websites

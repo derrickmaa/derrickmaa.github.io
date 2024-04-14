@@ -4,13 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. <ins>Congda Ma</ins>, Tianyu Zhao, Makoto Shing, Kei Sawada, and Manabu Okumura.\
+   **[Focused Prefix Tuning for Controllable Text Generation](https://doi.org/10.5715/jnlp.31.250)**\
+   *Journal of Natural Language Processing, Vol 31(1), pp. 250-265, (2024). 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+2. <ins>Congda Ma</ins>, Tianyu Zhao, Makoto Shing, Kei Sawada, and Manabu Okumura.\
+   **[Focused Prefix Tuning for Controllable Text Generation](https://aclanthology.org/2023.acl-short.96)**\
+   *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, Vol 2, pp. 1116-1127, (2023). 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+3. <ins>Congda Ma</ins>, Kotaro Funakoshi, Kiyoaki Shirai, and Manabu Okumura.\
+   **[Coherent Story Generation with Structured Knowledge](https://aclanthology.org/2023.ranlp-1.74/)**\
+   *Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing, pp. 681–690, (2023). 

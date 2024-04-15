@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publication/
 author_profile: true
 ---
 1. <ins>Congda Ma</ins>, Tianyu Zhao, Makoto Shing, Kei Sawada, and Manabu Okumura.\

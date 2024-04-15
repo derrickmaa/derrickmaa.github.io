@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /certification/
-title: "Certifications & Awards"
+title: "Certifications"
 author_profile: true
 ---
 

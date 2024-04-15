@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Educations"
+title: "Education"
 permalink: /portfolio/
 author_profile: true
 ---

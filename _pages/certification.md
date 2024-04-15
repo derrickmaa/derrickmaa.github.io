@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Certification & Awards"
+permalink: /certification/
+title: "Certifications"
 author_profile: true
 ---
 

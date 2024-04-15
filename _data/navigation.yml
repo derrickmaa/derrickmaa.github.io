@@ -7,13 +7,13 @@ main:
     url: /talks/    
 
   - title: "Experience"
-    url: /teaching/    
+    url: /experience/    
     
   - title: "Education"
-    url: /portfolio/
+    url: /education/
         
   - title: "Certification"
-    url: /year-archive/
+    url: /certification/
     
   - title: "CV"
     url: /cv/

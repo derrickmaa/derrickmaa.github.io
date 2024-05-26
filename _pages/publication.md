@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. <ins>Congda Ma</ins>, Tianyu Zhao, and Manabu Okumura.\
    **Debiasing Large Language Models with Structured Knowledge**\
-   *Findings of the Association for Computational Linguistics: ACL 2024
+   *Findings of the Association for Computational Linguistics: ACL 2024*
 
 2. <ins>Congda Ma</ins>, Tianyu Zhao, Makoto Shing, Kei Sawada, and Manabu Okumura.\
    **[Focused Prefix Tuning for Controllable Text Generation](https://doi.org/10.5715/jnlp.31.250)**\

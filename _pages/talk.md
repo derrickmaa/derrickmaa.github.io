@@ -5,7 +5,7 @@ permalink: /talk/
 author_profile: true
 ---
 
-2. <ins>Congda Ma</ins>, Tianyu Zhao, and Manabu Okumura.\
+1. <ins>Congda Ma</ins>, Tianyu Zhao, and Manabu Okumura.\
    **Debiasing Large Language Models with Structured Knowledge**\
    *Findings of the Association for Computational Linguistics: ACL 2024*\
    Bangkok, Thailand. Aug 2024.

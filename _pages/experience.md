@@ -26,7 +26,3 @@ In Jan 2020\
 Intern\
 ICT Development Department
 
-## Econess Energy
-Dec 2015 - Mar 2017\
-Engineer\
-IT Department

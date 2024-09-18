@@ -16,11 +16,6 @@ May 2022 - Dec 2022\
 Intern\
 Research Department 
 
-## Tokyo Institute of Technology
-May 2021 - Nov 2021\
-Research assistant\
-Okumura-Funakoshi Lab
-
 ## Mitsubishi Heavy Industries
 In Jan 2020\
 Intern\

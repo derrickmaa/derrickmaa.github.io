@@ -17,7 +17,7 @@ Intern\
 Research Department 
 
 ## Tokyo Institute of Technology
-May 2022 - Nov 2022\
+May 2021 - Nov 2021\
 Research assistant\
 Okumura-Funakoshi Lab
 

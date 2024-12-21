@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, here is **Congda Ma**. 
 
-Currently, I am a Ph.D. student at [Institute of Science Tokyo](https://www.titech.ac.jp/)(formerly Tokyo Institute of Technology)
+Currently, I am a Ph.D. student at [Institute of Science Tokyo](https://www.titech.ac.jp/)(formerly Tokyo Institute of Technology).
 
 My supervisor is [Prof. Manabu Okumura](http://www.lr.pi.titech.ac.jp/~oku/index-e.html) at [Okumura-Funakoshi Lab](https://lr-www.pi.titech.ac.jp/wp/). 
 

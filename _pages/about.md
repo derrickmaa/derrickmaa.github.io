@@ -20,8 +20,8 @@ I am working in Natural Language Processing.
 ## Research Interests
 
 My research focuses on Natural Language Processing. 
-I am passionate about addressing common issues in responsible AI, such as biases, present in pre-trained models and datasets. 
-I also have a strong interest in controllable text generation.
+I have a strong interest in controllable text generation.
+I am also passionate about addressing common issues in responsible AI. 
 I am dedicated to contributing to the development of models that produce reliable and trustworthy outputs.
 
 

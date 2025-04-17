@@ -11,6 +11,7 @@ author_profile: true
 
 ### 2020
 - Language and Intelligence Challenge (Machine Reading Comprehension): Top 5%
+- Toeic 800
 
 ### 2019
 - JLPT N1
